@@ -1,0 +1,6 @@
+e:\Visual Studio Projects\Homework1\PrintCurrentDate\bin\Debug\PrintCurrentDate.exe.config
+e:\Visual Studio Projects\Homework1\PrintCurrentDate\bin\Debug\PrintCurrentDate.exe
+e:\Visual Studio Projects\Homework1\PrintCurrentDate\bin\Debug\PrintCurrentDate.pdb
+e:\Visual Studio Projects\Homework1\PrintCurrentDate\obj\Debug\PrintCurrentDate.exe
+e:\Visual Studio Projects\Homework1\PrintCurrentDate\obj\Debug\PrintCurrentDate.pdb
+e:\Visual Studio Projects\Homework1\PrintCurrentDate\obj\Debug\PrintCurrentDate.csprojResolveAssemblyReference.cache

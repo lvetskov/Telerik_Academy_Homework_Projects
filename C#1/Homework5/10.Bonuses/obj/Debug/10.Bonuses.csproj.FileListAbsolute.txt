@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\Homework5\10.Bonuses\bin\Debug\10.Bonuses.exe.config
+E:\Visual Studio Projects\Homework5\10.Bonuses\obj\Debug\10.Bonuses.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\Homework5\10.Bonuses\bin\Debug\10.Bonuses.exe
+E:\Visual Studio Projects\Homework5\10.Bonuses\bin\Debug\10.Bonuses.pdb
+E:\Visual Studio Projects\Homework5\10.Bonuses\obj\Debug\10.Bonuses.exe
+E:\Visual Studio Projects\Homework5\10.Bonuses\obj\Debug\10.Bonuses.pdb

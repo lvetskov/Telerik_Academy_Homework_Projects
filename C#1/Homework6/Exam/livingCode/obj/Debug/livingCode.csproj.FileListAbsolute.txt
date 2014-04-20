@@ -1,0 +1,5 @@
+E:\Visual Studio Projects\Homework6\Exam\livingCode\bin\Debug\livingCode.exe.config
+E:\Visual Studio Projects\Homework6\Exam\livingCode\bin\Debug\livingCode.exe
+E:\Visual Studio Projects\Homework6\Exam\livingCode\bin\Debug\livingCode.pdb
+E:\Visual Studio Projects\Homework6\Exam\livingCode\obj\Debug\livingCode.exe
+E:\Visual Studio Projects\Homework6\Exam\livingCode\obj\Debug\livingCode.pdb

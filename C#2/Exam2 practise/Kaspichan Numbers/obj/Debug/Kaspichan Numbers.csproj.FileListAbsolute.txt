@@ -1,0 +1,5 @@
+E:\Visual Studio Projects\C#2\Exam2\Kaspichan Numbers\bin\Debug\Kaspichan Numbers.exe.config
+E:\Visual Studio Projects\C#2\Exam2\Kaspichan Numbers\bin\Debug\Kaspichan Numbers.exe
+E:\Visual Studio Projects\C#2\Exam2\Kaspichan Numbers\bin\Debug\Kaspichan Numbers.pdb
+E:\Visual Studio Projects\C#2\Exam2\Kaspichan Numbers\obj\Debug\Kaspichan Numbers.exe
+E:\Visual Studio Projects\C#2\Exam2\Kaspichan Numbers\obj\Debug\Kaspichan Numbers.pdb

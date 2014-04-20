@@ -1,0 +1,5 @@
+E:\Visual Studio Projects\Homework6\Homework6\11.Cards\bin\Debug\11.Cards.exe.config
+E:\Visual Studio Projects\Homework6\Homework6\11.Cards\bin\Debug\11.Cards.exe
+E:\Visual Studio Projects\Homework6\Homework6\11.Cards\bin\Debug\11.Cards.pdb
+E:\Visual Studio Projects\Homework6\Homework6\11.Cards\obj\Debug\11.Cards.exe
+E:\Visual Studio Projects\Homework6\Homework6\11.Cards\obj\Debug\11.Cards.pdb

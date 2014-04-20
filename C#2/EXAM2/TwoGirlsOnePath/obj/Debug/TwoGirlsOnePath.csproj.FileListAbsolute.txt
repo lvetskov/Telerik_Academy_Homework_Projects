@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\C#2\EXAM2\TwoGirlsOnePath\bin\Debug\TwoGirlsOnePath.exe.config
+E:\Visual Studio Projects\C#2\EXAM2\TwoGirlsOnePath\bin\Debug\TwoGirlsOnePath.exe
+E:\Visual Studio Projects\C#2\EXAM2\TwoGirlsOnePath\bin\Debug\TwoGirlsOnePath.pdb
+E:\Visual Studio Projects\C#2\EXAM2\TwoGirlsOnePath\obj\Debug\TwoGirlsOnePath.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\C#2\EXAM2\TwoGirlsOnePath\obj\Debug\TwoGirlsOnePath.exe
+E:\Visual Studio Projects\C#2\EXAM2\TwoGirlsOnePath\obj\Debug\TwoGirlsOnePath.pdb

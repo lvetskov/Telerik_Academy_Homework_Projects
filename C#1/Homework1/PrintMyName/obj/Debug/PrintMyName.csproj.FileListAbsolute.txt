@@ -1,0 +1,6 @@
+e:\Visual Studio Projects\Homework1\PrintMyName\bin\Debug\PrintMyName.exe.config
+e:\Visual Studio Projects\Homework1\PrintMyName\bin\Debug\PrintMyName.exe
+e:\Visual Studio Projects\Homework1\PrintMyName\bin\Debug\PrintMyName.pdb
+e:\Visual Studio Projects\Homework1\PrintMyName\obj\Debug\PrintMyName.exe
+e:\Visual Studio Projects\Homework1\PrintMyName\obj\Debug\PrintMyName.pdb
+e:\Visual Studio Projects\Homework1\PrintMyName\obj\Debug\PrintMyName.csprojResolveAssemblyReference.cache

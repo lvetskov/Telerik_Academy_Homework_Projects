@@ -1,0 +1,5 @@
+E:\Visual Studio Projects\Homework6\Exam\warHead\bin\Debug\warHead.exe.config
+E:\Visual Studio Projects\Homework6\Exam\warHead\bin\Debug\warHead.exe
+E:\Visual Studio Projects\Homework6\Exam\warHead\bin\Debug\warHead.pdb
+E:\Visual Studio Projects\Homework6\Exam\warHead\obj\Debug\warHead.exe
+E:\Visual Studio Projects\Homework6\Exam\warHead\obj\Debug\warHead.pdb

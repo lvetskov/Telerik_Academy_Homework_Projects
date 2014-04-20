@@ -1,0 +1,9 @@
+E:\Visual Studio Projects\C#2\Exam2\01\bin\Debug\01.exe.config
+E:\Visual Studio Projects\C#2\Exam2\01\bin\Debug\01.exe
+E:\Visual Studio Projects\C#2\Exam2\01\bin\Debug\01.pdb
+E:\Visual Studio Projects\C#2\Exam2\01\obj\Debug\MultiVerse Communication.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\C#2\Exam2\01\obj\Debug\01.exe
+E:\Visual Studio Projects\C#2\Exam2\01\obj\Debug\01.pdb
+E:\Visual Studio Projects\C#2\Exam2 practise\01\bin\Debug\01.exe.config
+E:\Visual Studio Projects\C#2\Exam2 practise\01\obj\Debug\01.exe
+E:\Visual Studio Projects\C#2\Exam2 practise\01\obj\Debug\01.pdb

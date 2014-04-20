@@ -1,0 +1,6 @@
+C:\Users\Lyubomir\Documents\Visual Studio 2012\Projects\Homework04\Homework04\bin\Debug\Homework04.exe.config
+C:\Users\Lyubomir\Documents\Visual Studio 2012\Projects\Homework04\Homework04\bin\Debug\Homework04.exe
+C:\Users\Lyubomir\Documents\Visual Studio 2012\Projects\Homework04\Homework04\bin\Debug\Homework04.pdb
+C:\Users\Lyubomir\Documents\Visual Studio 2012\Projects\Homework04\Homework04\obj\Debug\Problem01.csprojResolveAssemblyReference.cache
+C:\Users\Lyubomir\Documents\Visual Studio 2012\Projects\Homework04\Homework04\obj\Debug\Homework04.exe
+C:\Users\Lyubomir\Documents\Visual Studio 2012\Projects\Homework04\Homework04\obj\Debug\Homework04.pdb

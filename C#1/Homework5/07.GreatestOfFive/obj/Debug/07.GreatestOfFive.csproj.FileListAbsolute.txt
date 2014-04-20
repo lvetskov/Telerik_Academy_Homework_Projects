@@ -1,0 +1,5 @@
+E:\Visual Studio Projects\Homework5\07.GreatestOfFive\bin\Debug\07.GreatestOfFive.exe.config
+E:\Visual Studio Projects\Homework5\07.GreatestOfFive\bin\Debug\07.GreatestOfFive.exe
+E:\Visual Studio Projects\Homework5\07.GreatestOfFive\bin\Debug\07.GreatestOfFive.pdb
+E:\Visual Studio Projects\Homework5\07.GreatestOfFive\obj\Debug\07.GreatestOfFive.exe
+E:\Visual Studio Projects\Homework5\07.GreatestOfFive\obj\Debug\07.GreatestOfFive.pdb

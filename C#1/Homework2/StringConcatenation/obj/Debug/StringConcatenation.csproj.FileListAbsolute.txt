@@ -1,0 +1,5 @@
+E:\Visual Studio Projects\Homework2\StringConcatenation\bin\Debug\StringConcatenation.exe.config
+E:\Visual Studio Projects\Homework2\StringConcatenation\bin\Debug\StringConcatenation.exe
+E:\Visual Studio Projects\Homework2\StringConcatenation\bin\Debug\StringConcatenation.pdb
+E:\Visual Studio Projects\Homework2\StringConcatenation\obj\Debug\StringConcatenation.exe
+E:\Visual Studio Projects\Homework2\StringConcatenation\obj\Debug\StringConcatenation.pdb

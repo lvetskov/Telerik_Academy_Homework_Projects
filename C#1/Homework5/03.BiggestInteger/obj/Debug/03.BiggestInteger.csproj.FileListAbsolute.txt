@@ -1,0 +1,11 @@
+E:\Visual Studio Projects\Homework4\01.ExchangeValues\03.BiggestInteger\bin\Debug\03.BiggestInteger.exe.config
+E:\Visual Studio Projects\Homework4\01.ExchangeValues\03.BiggestInteger\bin\Debug\03.BiggestInteger.exe
+E:\Visual Studio Projects\Homework4\01.ExchangeValues\03.BiggestInteger\bin\Debug\03.BiggestInteger.pdb
+E:\Visual Studio Projects\Homework4\01.ExchangeValues\03.BiggestInteger\obj\Debug\03.BiggestInteger.exe
+E:\Visual Studio Projects\Homework4\01.ExchangeValues\03.BiggestInteger\obj\Debug\03.BiggestInteger.pdb
+E:\Visual Studio Projects\Homework5\03.BiggestInteger\bin\Debug\03.BiggestInteger.exe.config
+E:\Visual Studio Projects\Homework5\03.BiggestInteger\obj\Debug\03.BiggestInteger.exe
+E:\Visual Studio Projects\Homework5\03.BiggestInteger\obj\Debug\03.BiggestInteger.pdb
+E:\Visual Studio Projects\Homework5\03.BiggestInteger\bin\Debug\03.BiggestInteger.exe
+E:\Visual Studio Projects\Homework5\03.BiggestInteger\bin\Debug\03.BiggestInteger.pdb
+E:\Visual Studio Projects\Homework5\03.BiggestInteger\obj\Debug\03.BiggestInteger.csprojResolveAssemblyReference.cache

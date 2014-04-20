@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\Homework6\Homework6\04.NfacKfac\bin\Debug\04.NfacKfac.exe.config
+E:\Visual Studio Projects\Homework6\Homework6\04.NfacKfac\obj\Debug\04.NfacKfac.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\Homework6\Homework6\04.NfacKfac\bin\Debug\04.NfacKfac.exe
+E:\Visual Studio Projects\Homework6\Homework6\04.NfacKfac\bin\Debug\04.NfacKfac.pdb
+E:\Visual Studio Projects\Homework6\Homework6\04.NfacKfac\obj\Debug\04.NfacKfac.exe
+E:\Visual Studio Projects\Homework6\Homework6\04.NfacKfac\obj\Debug\04.NfacKfac.pdb

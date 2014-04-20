@@ -1,0 +1,5 @@
+E:\Visual Studio Projects\Homework6\Exam\expression\bin\Debug\expression.exe.config
+E:\Visual Studio Projects\Homework6\Exam\expression\bin\Debug\expression.exe
+E:\Visual Studio Projects\Homework6\Exam\expression\bin\Debug\expression.pdb
+E:\Visual Studio Projects\Homework6\Exam\expression\obj\Debug\expression.exe
+E:\Visual Studio Projects\Homework6\Exam\expression\obj\Debug\expression.pdb

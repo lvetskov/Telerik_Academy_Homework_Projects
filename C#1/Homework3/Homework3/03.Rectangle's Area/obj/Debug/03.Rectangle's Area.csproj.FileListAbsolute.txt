@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\Homework3\Homework3\03.Rectangle's Area\bin\Debug\03.Rectangle's Area.exe.config
+E:\Visual Studio Projects\Homework3\Homework3\03.Rectangle's Area\bin\Debug\03.Rectangle's Area.exe
+E:\Visual Studio Projects\Homework3\Homework3\03.Rectangle's Area\bin\Debug\03.Rectangle's Area.pdb
+E:\Visual Studio Projects\Homework3\Homework3\03.Rectangle's Area\obj\Debug\03.Rectangle's Area.exe
+E:\Visual Studio Projects\Homework3\Homework3\03.Rectangle's Area\obj\Debug\03.Rectangle's Area.pdb
+E:\Visual Studio Projects\Homework3\Homework3\03.Rectangle's Area\obj\Debug\03.Rectangle's Area.csprojResolveAssemblyReference.cache

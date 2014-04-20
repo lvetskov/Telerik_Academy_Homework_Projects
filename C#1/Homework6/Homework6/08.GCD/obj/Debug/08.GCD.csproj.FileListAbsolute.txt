@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\Homework6\Homework6\08.GCD\bin\Debug\08.GCD.exe.config
+E:\Visual Studio Projects\Homework6\Homework6\08.GCD\bin\Debug\08.GCD.exe
+E:\Visual Studio Projects\Homework6\Homework6\08.GCD\bin\Debug\08.GCD.pdb
+E:\Visual Studio Projects\Homework6\Homework6\08.GCD\obj\Debug\08.GCD.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\Homework6\Homework6\08.GCD\obj\Debug\08.GCD.exe
+E:\Visual Studio Projects\Homework6\Homework6\08.GCD\obj\Debug\08.GCD.pdb

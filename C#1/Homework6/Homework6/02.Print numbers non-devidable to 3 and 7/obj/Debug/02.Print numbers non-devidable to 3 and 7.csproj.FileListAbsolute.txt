@@ -1,0 +1,5 @@
+E:\Visual Studio Projects\Homework6\Homework6\02.Print numbers non-devidable to 3 and 7\bin\Debug\02.Print numbers non-devidable to 3 and 7.exe.config
+E:\Visual Studio Projects\Homework6\Homework6\02.Print numbers non-devidable to 3 and 7\bin\Debug\02.Print numbers non-devidable to 3 and 7.exe
+E:\Visual Studio Projects\Homework6\Homework6\02.Print numbers non-devidable to 3 and 7\bin\Debug\02.Print numbers non-devidable to 3 and 7.pdb
+E:\Visual Studio Projects\Homework6\Homework6\02.Print numbers non-devidable to 3 and 7\obj\Debug\02.Print numbers non-devidable to 3 and 7.exe
+E:\Visual Studio Projects\Homework6\Homework6\02.Print numbers non-devidable to 3 and 7\obj\Debug\02.Print numbers non-devidable to 3 and 7.pdb

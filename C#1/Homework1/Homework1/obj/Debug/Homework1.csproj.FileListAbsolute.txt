@@ -1,0 +1,5 @@
+e:\Visual Studio Projects\Homework1\Homework1\bin\Debug\Homework1.exe.config
+e:\Visual Studio Projects\Homework1\Homework1\bin\Debug\Homework1.exe
+e:\Visual Studio Projects\Homework1\Homework1\bin\Debug\Homework1.pdb
+e:\Visual Studio Projects\Homework1\Homework1\obj\Debug\Homework1.exe
+e:\Visual Studio Projects\Homework1\Homework1\obj\Debug\Homework1.pdb

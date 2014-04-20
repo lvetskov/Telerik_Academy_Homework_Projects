@@ -1,0 +1,41 @@
+body{
+	font-size: 18px;
+	font-family:sans-serif;
+}
+table{
+		background-color: #909090;
+		height: 15em;
+}
+#tableHeader{
+	font-size: 1.25em;
+	color: #C0C0C0;
+}
+#alert{
+	color: red;
+	font-weight: bold;
+}
+.leftCell{
+	font-style: italic;
+	color: #FFFFDD;
+}
+.circle{
+	border-radius: 100%;
+	width: 0.5em;
+	height: 0.5em;
+	background-color: #71b47a;
+}
+.firstCol{
+	width: 140px;
+} 
+.secondCol{
+	width: 300px;
+}
+.yellow{
+	color:#FFFF9D;
+}
+.orange{
+	color: #FF8000
+}
+.grey{
+	color: #C0C0C0;
+}

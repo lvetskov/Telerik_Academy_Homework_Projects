@@ -1,0 +1,9 @@
+F:\Microsoft VisualStudio\Homework03\08\bin\Debug\08.exe.config
+F:\Microsoft VisualStudio\Homework03\08\bin\Debug\08.exe
+F:\Microsoft VisualStudio\Homework03\08\bin\Debug\08.pdb
+F:\Microsoft VisualStudio\Homework03\08\obj\Debug\08.exe
+F:\Microsoft VisualStudio\Homework03\08\obj\Debug\08.pdb
+F:\Microsoft VisualStudio\Homework03\08\obj\Debug\08.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\C#2\Homework03\08\bin\Debug\08.exe.config
+E:\Visual Studio Projects\C#2\Homework03\08\obj\Debug\08.exe
+E:\Visual Studio Projects\C#2\Homework03\08\obj\Debug\08.pdb

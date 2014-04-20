@@ -1,0 +1,12 @@
+E:\Visual Studio Projects\Homework4\01.ExchangeValues\02.Sign\bin\Debug\02.Sign.exe.config
+E:\Visual Studio Projects\Homework4\01.ExchangeValues\02.Sign\bin\Debug\02.Sign.exe
+E:\Visual Studio Projects\Homework4\01.ExchangeValues\02.Sign\bin\Debug\02.Sign.pdb
+E:\Visual Studio Projects\Homework4\01.ExchangeValues\02.Sign\obj\Debug\02.Sign.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\Homework4\01.ExchangeValues\02.Sign\obj\Debug\02.Sign.exe
+E:\Visual Studio Projects\Homework4\01.ExchangeValues\02.Sign\obj\Debug\02.Sign.pdb
+E:\Visual Studio Projects\Homework5\02.Sign\bin\Debug\02.Sign.exe.config
+E:\Visual Studio Projects\Homework5\02.Sign\obj\Debug\02.Sign.exe
+E:\Visual Studio Projects\Homework5\02.Sign\obj\Debug\02.Sign.pdb
+E:\Visual Studio Projects\Homework5\02.Sign\bin\Debug\02.Sign.exe
+E:\Visual Studio Projects\Homework5\02.Sign\bin\Debug\02.Sign.pdb
+E:\Visual Studio Projects\Homework5\02.Sign\obj\Debug\02.Sign.csprojResolveAssemblyReference.cache

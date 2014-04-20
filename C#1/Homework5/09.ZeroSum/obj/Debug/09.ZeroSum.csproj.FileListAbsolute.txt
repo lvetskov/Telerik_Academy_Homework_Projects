@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\Homework5\09.ZeroSum\bin\Debug\09.ZeroSum.exe.config
+E:\Visual Studio Projects\Homework5\09.ZeroSum\bin\Debug\09.ZeroSum.exe
+E:\Visual Studio Projects\Homework5\09.ZeroSum\bin\Debug\09.ZeroSum.pdb
+E:\Visual Studio Projects\Homework5\09.ZeroSum\obj\Debug\09.ZeroSum.exe
+E:\Visual Studio Projects\Homework5\09.ZeroSum\obj\Debug\09.ZeroSum.pdb
+E:\Visual Studio Projects\Homework5\09.ZeroSum\obj\Debug\09.ZeroSum.csprojResolveAssemblyReference.cache

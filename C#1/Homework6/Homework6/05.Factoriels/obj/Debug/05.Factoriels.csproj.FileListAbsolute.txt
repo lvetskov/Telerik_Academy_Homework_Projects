@@ -1,0 +1,5 @@
+E:\Visual Studio Projects\Homework6\Homework6\05.Factoriels\bin\Debug\05.Factoriels.exe.config
+E:\Visual Studio Projects\Homework6\Homework6\05.Factoriels\bin\Debug\05.Factoriels.exe
+E:\Visual Studio Projects\Homework6\Homework6\05.Factoriels\bin\Debug\05.Factoriels.pdb
+E:\Visual Studio Projects\Homework6\Homework6\05.Factoriels\obj\Debug\05.Factoriels.exe
+E:\Visual Studio Projects\Homework6\Homework6\05.Factoriels\obj\Debug\05.Factoriels.pdb

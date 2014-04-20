@@ -1,0 +1,8 @@
+body{
+	color: #0094ff;
+	font-family: 'Consolas';
+}
+section article header:first-letter{
+	font-size: 1.7em;
+	font-family: 'Edwardian Script ITC';
+}

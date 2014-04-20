@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\Homework6\Coffee\garden\bin\Debug\garden.exe.config
+E:\Visual Studio Projects\Homework6\Coffee\garden\bin\Debug\garden.exe
+E:\Visual Studio Projects\Homework6\Coffee\garden\bin\Debug\garden.pdb
+E:\Visual Studio Projects\Homework6\Coffee\garden\obj\Debug\garden.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\Homework6\Coffee\garden\obj\Debug\garden.exe
+E:\Visual Studio Projects\Homework6\Coffee\garden\obj\Debug\garden.pdb

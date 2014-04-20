@@ -1,0 +1,5 @@
+e:\Visual Studio Projects\Homework1\SquareOfNumber\bin\Debug\SquareOfNumber.exe.config
+e:\Visual Studio Projects\Homework1\SquareOfNumber\bin\Debug\SquareOfNumber.exe
+e:\Visual Studio Projects\Homework1\SquareOfNumber\bin\Debug\SquareOfNumber.pdb
+e:\Visual Studio Projects\Homework1\SquareOfNumber\obj\Debug\SquareOfNumber.exe
+e:\Visual Studio Projects\Homework1\SquareOfNumber\obj\Debug\SquareOfNumber.pdb

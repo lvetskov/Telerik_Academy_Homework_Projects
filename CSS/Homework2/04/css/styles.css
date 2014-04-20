@@ -1,0 +1,147 @@
+body{
+	font-family: arial;
+}
+.headerContainer{
+	height: 1.5em;
+}
+section header div{
+	background: url('../imgs/headerBG.png');
+	background-repeat: no-repeat;
+	width: 420px;
+}
+#elem1{
+	background: url('../imgs/calcHeader.png');
+	background-repeat: no-repeat;
+	background-position: 5px;
+	padding-left: 20px;
+}
+#elem2{
+	display: inline-block;
+	width: 104px;
+	right: 150px;
+	background: url('../imgs/buttons.png');
+	background-repeat: no-repeat;
+	margin-left: 220px;
+}
+.displayContainer{
+	border-width: 1px;
+}
+#elem3{
+	margin-left: 10px;
+}
+span:first-letter{
+	text-decoration: underline;
+}
+div div span{
+	display: block;
+	width: 50px;
+	float: left;
+	font-size: 0.8em;
+	height: 1.4em;
+}
+.container1{
+	background: url('../imgs/container1BG.png');
+	position: absolute;
+	background-repeat: no-repeat;
+	width: 418px;
+	border: 1px solid #959595;
+}
+.container2{
+	background-color: #DCE4F1;
+	position: static;
+	height: 333px;
+	width: 418px;
+	border: 1px solid #959595;
+}
+.container3{
+	background-color: #EAF3F4;
+	/*position: static;*/
+	height: 35px;
+	width: 385px;
+	font-size: 1em;
+	text-align: right;
+	display: table-cell;
+	vertical-align: bottom;
+	border: 1px solid #959595;
+}
+.container4{
+	height: 35px;
+	width: 385px;
+	padding-left: 15px;
+	padding-top: 15px
+}
+.container5{
+	background-color: #DCE4F1;
+	color: #020942;
+	/*position: static;*/
+	font-size: 0.8em;
+	text-align: left;
+	float: left;
+	width: 40px;
+	margin-left: 8px;
+}
+.container6{
+	height: 35px;
+	width: 384px;
+	margin-left: 15px;
+	margin-top: 5px;
+	border-left: 1px solid #959595;
+	border-right: 1px solid #959595;
+	border-top: 1px solid #959595;
+}
+.container7{
+	height: 35px;
+	width: 384px;
+	margin-left: 15px;
+	border-left: 1px solid #959595;
+	border-right: 1px solid #959595;
+	border-bottom: 1px solid #959595;
+}
+input{
+	float: left;
+}
+label{
+	font-size: 0.8em;
+}
+.container8{
+	float: left;
+	width: 70px;
+	height: 92px;
+	border: 1px solid #959595;
+	margin-left: 15px;
+	margin-top: 5px;
+	margin-right: 5px;
+}
+.buttonContainer{
+	float: left;
+	margin-top: 5px;
+	margin-right: 5px;
+}
+.buttonLarge{
+	position: fixed;
+	width: 34px;
+	height: 61px;
+	font-size: 0.6em;
+}
+.button{
+	width: 34px;
+	height: 28px;
+	font-size: 0.6em;
+}
+.buttonHidden{
+	width: 34px;
+	height: 28px;
+	visibility: hidden;
+}
+.buttonFloat{
+	position: relative;
+	width: 34px;
+	height: 28px;
+	font-size: 0.6em;
+}
+.buttonLarge2{
+	width: 73px;
+	height: 28px;
+	font-size: 0.6em;
+}
+

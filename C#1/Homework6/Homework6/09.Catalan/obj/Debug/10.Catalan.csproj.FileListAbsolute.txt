@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\Homework6\Homework6\09.Catalan\bin\Debug\09.Catalan.exe.config
+E:\Visual Studio Projects\Homework6\Homework6\09.Catalan\bin\Debug\09.Catalan.exe
+E:\Visual Studio Projects\Homework6\Homework6\09.Catalan\bin\Debug\09.Catalan.pdb
+E:\Visual Studio Projects\Homework6\Homework6\09.Catalan\obj\Debug\10.Catalan.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\Homework6\Homework6\09.Catalan\obj\Debug\09.Catalan.exe
+E:\Visual Studio Projects\Homework6\Homework6\09.Catalan\obj\Debug\09.Catalan.pdb

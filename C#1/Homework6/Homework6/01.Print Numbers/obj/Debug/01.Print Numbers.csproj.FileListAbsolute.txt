@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\Homework6\Homework6\01.Print Numbers\bin\Debug\01.Print Numbers.exe.config
+E:\Visual Studio Projects\Homework6\Homework6\01.Print Numbers\bin\Debug\01.Print Numbers.exe
+E:\Visual Studio Projects\Homework6\Homework6\01.Print Numbers\bin\Debug\01.Print Numbers.pdb
+E:\Visual Studio Projects\Homework6\Homework6\01.Print Numbers\obj\Debug\01.Print Numbers.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\Homework6\Homework6\01.Print Numbers\obj\Debug\01.Print Numbers.exe
+E:\Visual Studio Projects\Homework6\Homework6\01.Print Numbers\obj\Debug\01.Print Numbers.pdb

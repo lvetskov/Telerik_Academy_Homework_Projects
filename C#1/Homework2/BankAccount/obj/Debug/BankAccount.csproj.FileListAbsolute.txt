@@ -1,0 +1,5 @@
+E:\Visual Studio Projects\Homework2\BankAccount\bin\Debug\BankAccount.exe.config
+E:\Visual Studio Projects\Homework2\BankAccount\bin\Debug\BankAccount.exe
+E:\Visual Studio Projects\Homework2\BankAccount\bin\Debug\BankAccount.pdb
+E:\Visual Studio Projects\Homework2\BankAccount\obj\Debug\BankAccount.exe
+E:\Visual Studio Projects\Homework2\BankAccount\obj\Debug\BankAccount.pdb

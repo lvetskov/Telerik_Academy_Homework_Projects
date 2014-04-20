@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\Homework6\Homework6\03.Sequence of numbers\bin\Debug\03.Sequence of numbers.exe.config
+E:\Visual Studio Projects\Homework6\Homework6\03.Sequence of numbers\bin\Debug\03.Sequence of numbers.exe
+E:\Visual Studio Projects\Homework6\Homework6\03.Sequence of numbers\bin\Debug\03.Sequence of numbers.pdb
+E:\Visual Studio Projects\Homework6\Homework6\03.Sequence of numbers\obj\Debug\03.Sequence of numbers.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\Homework6\Homework6\03.Sequence of numbers\obj\Debug\03.Sequence of numbers.exe
+E:\Visual Studio Projects\Homework6\Homework6\03.Sequence of numbers\obj\Debug\03.Sequence of numbers.pdb

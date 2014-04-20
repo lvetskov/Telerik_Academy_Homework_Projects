@@ -1,0 +1,5 @@
+E:\Visual Studio Projects\Homework2\MarketingFirm\bin\Debug\MarketingFirm.exe.config
+E:\Visual Studio Projects\Homework2\MarketingFirm\bin\Debug\MarketingFirm.exe
+E:\Visual Studio Projects\Homework2\MarketingFirm\bin\Debug\MarketingFirm.pdb
+E:\Visual Studio Projects\Homework2\MarketingFirm\obj\Debug\MarketingFirm.exe
+E:\Visual Studio Projects\Homework2\MarketingFirm\obj\Debug\MarketingFirm.pdb

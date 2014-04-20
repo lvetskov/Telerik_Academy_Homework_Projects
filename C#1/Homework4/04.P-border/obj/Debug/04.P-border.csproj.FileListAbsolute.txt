@@ -1,0 +1,8 @@
+E:\Visual Studio Projects\Homework3\Homework4\04.P-border\bin\Debug\04.P-border.exe.config
+E:\Visual Studio Projects\Homework3\Homework4\04.P-border\bin\Debug\04.P-border.exe
+E:\Visual Studio Projects\Homework3\Homework4\04.P-border\bin\Debug\04.P-border.pdb
+E:\Visual Studio Projects\Homework3\Homework4\04.P-border\obj\Debug\04.P-border.exe
+E:\Visual Studio Projects\Homework3\Homework4\04.P-border\obj\Debug\04.P-border.pdb
+E:\Visual Studio Projects\Homework4\04.P-border\bin\Debug\04.P-border.exe.config
+E:\Visual Studio Projects\Homework4\04.P-border\obj\Debug\04.P-border.exe
+E:\Visual Studio Projects\Homework4\04.P-border\obj\Debug\04.P-border.pdb

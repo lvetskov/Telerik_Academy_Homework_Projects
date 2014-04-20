@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\Homework6\test2\test2\bin\Debug\test2.exe.config
+E:\Visual Studio Projects\Homework6\test2\test2\bin\Debug\test2.exe
+E:\Visual Studio Projects\Homework6\test2\test2\bin\Debug\test2.pdb
+E:\Visual Studio Projects\Homework6\test2\test2\obj\Debug\test2.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\Homework6\test2\test2\obj\Debug\test2.exe
+E:\Visual Studio Projects\Homework6\test2\test2\obj\Debug\test2.pdb

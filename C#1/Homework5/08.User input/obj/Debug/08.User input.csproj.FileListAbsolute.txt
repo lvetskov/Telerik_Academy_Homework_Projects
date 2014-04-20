@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\Homework5\08.User input\bin\Debug\08.User input.exe.config
+E:\Visual Studio Projects\Homework5\08.User input\bin\Debug\08.User input.exe
+E:\Visual Studio Projects\Homework5\08.User input\bin\Debug\08.User input.pdb
+E:\Visual Studio Projects\Homework5\08.User input\obj\Debug\08.User input.exe
+E:\Visual Studio Projects\Homework5\08.User input\obj\Debug\08.User input.pdb
+E:\Visual Studio Projects\Homework5\08.User input\obj\Debug\08.User input.csprojResolveAssemblyReference.cache

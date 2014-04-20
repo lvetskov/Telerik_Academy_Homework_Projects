@@ -1,0 +1,5 @@
+E:\Visual Studio Projects\Homework6\Exam\Diamond Trolls\bin\Debug\Diamond Trolls.exe.config
+E:\Visual Studio Projects\Homework6\Exam\Diamond Trolls\bin\Debug\Diamond Trolls.exe
+E:\Visual Studio Projects\Homework6\Exam\Diamond Trolls\bin\Debug\Diamond Trolls.pdb
+E:\Visual Studio Projects\Homework6\Exam\Diamond Trolls\obj\Debug\Diamond Trolls.exe
+E:\Visual Studio Projects\Homework6\Exam\Diamond Trolls\obj\Debug\Diamond Trolls.pdb

@@ -1,0 +1,9 @@
+E:\Visual Studio Projects\Homework3\Homework4\Homework4\bin\Debug\Homework4.exe.config
+E:\Visual Studio Projects\Homework3\Homework4\Homework4\bin\Debug\Homework4.exe
+E:\Visual Studio Projects\Homework3\Homework4\Homework4\bin\Debug\Homework4.pdb
+E:\Visual Studio Projects\Homework3\Homework4\Homework4\obj\Debug\01.3integersum.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\Homework3\Homework4\Homework4\obj\Debug\Homework4.exe
+E:\Visual Studio Projects\Homework3\Homework4\Homework4\obj\Debug\Homework4.pdb
+E:\Visual Studio Projects\Homework4\Homework4\bin\Debug\Homework4.exe.config
+E:\Visual Studio Projects\Homework4\Homework4\obj\Debug\Homework4.exe
+E:\Visual Studio Projects\Homework4\Homework4\obj\Debug\Homework4.pdb

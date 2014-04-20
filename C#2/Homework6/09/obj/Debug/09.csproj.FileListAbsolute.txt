@@ -1,0 +1,5 @@
+E:\Visual Studio Projects\C#2\Homework6\09\bin\Debug\09.exe.config
+E:\Visual Studio Projects\C#2\Homework6\09\bin\Debug\09.exe
+E:\Visual Studio Projects\C#2\Homework6\09\bin\Debug\09.pdb
+E:\Visual Studio Projects\C#2\Homework6\09\obj\Debug\09.exe
+E:\Visual Studio Projects\C#2\Homework6\09\obj\Debug\09.pdb

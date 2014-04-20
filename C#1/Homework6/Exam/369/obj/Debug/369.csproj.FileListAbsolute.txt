@@ -1,0 +1,5 @@
+E:\Visual Studio Projects\Homework6\Exam\369\bin\Debug\369.exe.config
+E:\Visual Studio Projects\Homework6\Exam\369\bin\Debug\369.exe
+E:\Visual Studio Projects\Homework6\Exam\369\bin\Debug\369.pdb
+E:\Visual Studio Projects\Homework6\Exam\369\obj\Debug\369.exe
+E:\Visual Studio Projects\Homework6\Exam\369\obj\Debug\369.pdb

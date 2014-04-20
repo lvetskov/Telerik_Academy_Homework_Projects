@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\OOP\Homework04\Problem03\bin\Debug\Problem03.exe.config
+E:\Visual Studio Projects\OOP\Homework04\Problem03\bin\Debug\Problem03.exe
+E:\Visual Studio Projects\OOP\Homework04\Problem03\bin\Debug\Problem03.pdb
+E:\Visual Studio Projects\OOP\Homework04\Problem03\obj\Debug\Problem03.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\OOP\Homework04\Problem03\obj\Debug\Problem03.exe
+E:\Visual Studio Projects\OOP\Homework04\Problem03\obj\Debug\Problem03.pdb

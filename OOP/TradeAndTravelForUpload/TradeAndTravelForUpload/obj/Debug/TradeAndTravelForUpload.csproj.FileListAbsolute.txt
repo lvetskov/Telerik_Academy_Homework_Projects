@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\OOP\TradeAndTravelForUpload\TradeAndTravelForUpload\bin\Debug\TradeAndTravelForUpload.exe.config
+E:\Visual Studio Projects\OOP\TradeAndTravelForUpload\TradeAndTravelForUpload\bin\Debug\TradeAndTravelForUpload.exe
+E:\Visual Studio Projects\OOP\TradeAndTravelForUpload\TradeAndTravelForUpload\bin\Debug\TradeAndTravelForUpload.pdb
+E:\Visual Studio Projects\OOP\TradeAndTravelForUpload\TradeAndTravelForUpload\obj\Debug\TradeAndTravelForUpload.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\OOP\TradeAndTravelForUpload\TradeAndTravelForUpload\obj\Debug\TradeAndTravelForUpload.exe
+E:\Visual Studio Projects\OOP\TradeAndTravelForUpload\TradeAndTravelForUpload\obj\Debug\TradeAndTravelForUpload.pdb

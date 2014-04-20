@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\Homework6\Coffee\Fall Down\bin\Debug\Fall Down.exe.config
+E:\Visual Studio Projects\Homework6\Coffee\Fall Down\bin\Debug\Fall Down.exe
+E:\Visual Studio Projects\Homework6\Coffee\Fall Down\bin\Debug\Fall Down.pdb
+E:\Visual Studio Projects\Homework6\Coffee\Fall Down\obj\Debug\Fall Down.exe
+E:\Visual Studio Projects\Homework6\Coffee\Fall Down\obj\Debug\Fall Down.pdb
+E:\Visual Studio Projects\Homework6\Coffee\Fall Down\obj\Debug\Fall Down.csprojResolveAssemblyReference.cache

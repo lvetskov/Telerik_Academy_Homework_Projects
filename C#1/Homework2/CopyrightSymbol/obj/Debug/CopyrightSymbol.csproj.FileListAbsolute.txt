@@ -1,0 +1,5 @@
+E:\Visual Studio Projects\Homework2\CopyrightSymbol\bin\Debug\CopyrightSymbol.exe.config
+E:\Visual Studio Projects\Homework2\CopyrightSymbol\bin\Debug\CopyrightSymbol.exe
+E:\Visual Studio Projects\Homework2\CopyrightSymbol\bin\Debug\CopyrightSymbol.pdb
+E:\Visual Studio Projects\Homework2\CopyrightSymbol\obj\Debug\CopyrightSymbol.exe
+E:\Visual Studio Projects\Homework2\CopyrightSymbol\obj\Debug\CopyrightSymbol.pdb

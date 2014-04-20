@@ -1,0 +1,9 @@
+F:\Microsoft VisualStudio\Homework03\06\bin\Debug\06.exe.config
+F:\Microsoft VisualStudio\Homework03\06\bin\Debug\06.exe
+F:\Microsoft VisualStudio\Homework03\06\bin\Debug\06.pdb
+F:\Microsoft VisualStudio\Homework03\06\obj\Debug\06.csprojResolveAssemblyReference.cache
+F:\Microsoft VisualStudio\Homework03\06\obj\Debug\06.exe
+F:\Microsoft VisualStudio\Homework03\06\obj\Debug\06.pdb
+E:\Visual Studio Projects\C#2\Homework03\06\bin\Debug\06.exe.config
+E:\Visual Studio Projects\C#2\Homework03\06\obj\Debug\06.exe
+E:\Visual Studio Projects\C#2\Homework03\06\obj\Debug\06.pdb

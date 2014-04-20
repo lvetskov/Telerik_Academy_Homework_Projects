@@ -1,0 +1,9 @@
+e:\Visual Studio Projects\Homework1\ReadAge\bin\Debug\ReadAge.exe.config
+e:\Visual Studio Projects\Homework1\ReadAge\bin\Debug\ReadAge.exe
+e:\Visual Studio Projects\Homework1\ReadAge\bin\Debug\ReadAge.pdb
+e:\Visual Studio Projects\Homework1\ReadAge\obj\Debug\ReadAge.exe
+e:\Visual Studio Projects\Homework1\ReadAge\obj\Debug\ReadAge.pdb
+e:\Visual Studio Projects\Homework1\ReadAge\obj\Debug\ReadAge.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\C#1\Homework1\ReadAge\bin\Debug\ReadAge.exe.config
+E:\Visual Studio Projects\C#1\Homework1\ReadAge\obj\Debug\ReadAge.exe
+E:\Visual Studio Projects\C#1\Homework1\ReadAge\obj\Debug\ReadAge.pdb

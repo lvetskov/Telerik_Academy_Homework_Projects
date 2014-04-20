@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\Homework5\05.Digit\bin\Debug\05.Digit.exe.config
+E:\Visual Studio Projects\Homework5\05.Digit\bin\Debug\05.Digit.exe
+E:\Visual Studio Projects\Homework5\05.Digit\bin\Debug\05.Digit.pdb
+E:\Visual Studio Projects\Homework5\05.Digit\obj\Debug\05.Digit.exe
+E:\Visual Studio Projects\Homework5\05.Digit\obj\Debug\05.Digit.pdb
+E:\Visual Studio Projects\Homework5\05.Digit\obj\Debug\05.Digit.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+E:\Visual Studio Projects\Homework3\Homework3\09.Point in a circle and a rectangle\bin\Debug\09.Point in a circle and a rectangle.exe.config
+E:\Visual Studio Projects\Homework3\Homework3\09.Point in a circle and a rectangle\bin\Debug\09.Point in a circle and a rectangle.exe
+E:\Visual Studio Projects\Homework3\Homework3\09.Point in a circle and a rectangle\bin\Debug\09.Point in a circle and a rectangle.pdb
+E:\Visual Studio Projects\Homework3\Homework3\09.Point in a circle and a rectangle\obj\Debug\09.Point in a circle and a rectangle.exe
+E:\Visual Studio Projects\Homework3\Homework3\09.Point in a circle and a rectangle\obj\Debug\09.Point in a circle and a rectangle.pdb

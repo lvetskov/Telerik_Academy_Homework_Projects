@@ -1,0 +1,10 @@
+E:\Visual Studio Projects\Homework3\Homework4\07.nSum\bin\Debug\07.nSum.exe.config
+E:\Visual Studio Projects\Homework3\Homework4\07.nSum\bin\Debug\07.nSum.exe
+E:\Visual Studio Projects\Homework3\Homework4\07.nSum\bin\Debug\07.nSum.pdb
+E:\Visual Studio Projects\Homework3\Homework4\07.nSum\obj\Debug\07.nSum.exe
+E:\Visual Studio Projects\Homework3\Homework4\07.nSum\obj\Debug\07.nSum.pdb
+E:\Visual Studio Projects\Homework4\07.nSum\bin\Debug\07.nSum.exe.config
+E:\Visual Studio Projects\Homework4\07.nSum\obj\Debug\07.nSum.exe
+E:\Visual Studio Projects\Homework4\07.nSum\obj\Debug\07.nSum.pdb
+E:\Visual Studio Projects\Homework4\07.nSum\bin\Debug\07.nSum.exe
+E:\Visual Studio Projects\Homework4\07.nSum\bin\Debug\07.nSum.pdb

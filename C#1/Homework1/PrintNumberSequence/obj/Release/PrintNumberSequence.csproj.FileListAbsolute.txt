@@ -1,0 +1,5 @@
+e:\Visual Studio Projects\Homework1\PrintNumberSequence\bin\Release\PrintNumberSequence.exe.config
+e:\Visual Studio Projects\Homework1\PrintNumberSequence\bin\Release\PrintNumberSequence.exe
+e:\Visual Studio Projects\Homework1\PrintNumberSequence\bin\Release\PrintNumberSequence.pdb
+e:\Visual Studio Projects\Homework1\PrintNumberSequence\obj\Release\PrintNumberSequence.exe
+e:\Visual Studio Projects\Homework1\PrintNumberSequence\obj\Release\PrintNumberSequence.pdb

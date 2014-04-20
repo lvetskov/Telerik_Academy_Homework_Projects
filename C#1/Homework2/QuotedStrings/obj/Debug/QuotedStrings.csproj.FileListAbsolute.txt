@@ -1,0 +1,5 @@
+E:\Visual Studio Projects\Homework2\QuotedStrings\bin\Debug\QuotedStrings.exe.config
+E:\Visual Studio Projects\Homework2\QuotedStrings\bin\Debug\QuotedStrings.exe
+E:\Visual Studio Projects\Homework2\QuotedStrings\bin\Debug\QuotedStrings.pdb
+E:\Visual Studio Projects\Homework2\QuotedStrings\obj\Debug\QuotedStrings.exe
+E:\Visual Studio Projects\Homework2\QuotedStrings\obj\Debug\QuotedStrings.pdb

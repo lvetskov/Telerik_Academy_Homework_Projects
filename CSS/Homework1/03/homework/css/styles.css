@@ -1,0 +1,37 @@
+body{
+	font-size: 20px;
+	color: #FAFAD2;
+	background-color: #A9A9A9;
+}
+body > header{
+	font-size: 1.2em;
+	text-align: center;
+}
+nav ul{
+	list-style-type: none;
+}
+nav ul li a{
+	font-weight: bold;
+	text-decoration: none;
+	color: #FAFAD2;
+}
+a:hover{
+	text-decoration: underline;
+}
+article > header{
+	font-size: 1.4em;
+}
+article > p{
+	color: #000000;
+}
+article > footer{
+	color: #000000;
+}
+p > a{
+	text-decoration: none;
+	color: #000000;
+}
+body > footer{
+	text-align: center;
+	color: #000000;
+}

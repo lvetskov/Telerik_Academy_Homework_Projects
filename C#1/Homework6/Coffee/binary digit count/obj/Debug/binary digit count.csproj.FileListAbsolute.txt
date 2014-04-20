@@ -1,0 +1,5 @@
+E:\Visual Studio Projects\Homework6\Coffee\binary digit count\bin\Debug\binary digit count.exe.config
+E:\Visual Studio Projects\Homework6\Coffee\binary digit count\bin\Debug\binary digit count.exe
+E:\Visual Studio Projects\Homework6\Coffee\binary digit count\bin\Debug\binary digit count.pdb
+E:\Visual Studio Projects\Homework6\Coffee\binary digit count\obj\Debug\binary digit count.exe
+E:\Visual Studio Projects\Homework6\Coffee\binary digit count\obj\Debug\binary digit count.pdb

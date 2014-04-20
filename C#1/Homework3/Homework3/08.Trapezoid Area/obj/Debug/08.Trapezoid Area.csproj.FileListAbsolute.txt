@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\Homework3\Homework3\08.Trapezoid Area\bin\Debug\08.Trapezoid Area.exe.config
+E:\Visual Studio Projects\Homework3\Homework3\08.Trapezoid Area\bin\Debug\08.Trapezoid Area.exe
+E:\Visual Studio Projects\Homework3\Homework3\08.Trapezoid Area\bin\Debug\08.Trapezoid Area.pdb
+E:\Visual Studio Projects\Homework3\Homework3\08.Trapezoid Area\obj\Debug\08.Trapezoid Area.exe
+E:\Visual Studio Projects\Homework3\Homework3\08.Trapezoid Area\obj\Debug\08.Trapezoid Area.pdb
+E:\Visual Studio Projects\Homework3\Homework3\08.Trapezoid Area\obj\Debug\08.Trapezoid Area.csprojResolveAssemblyReference.cache

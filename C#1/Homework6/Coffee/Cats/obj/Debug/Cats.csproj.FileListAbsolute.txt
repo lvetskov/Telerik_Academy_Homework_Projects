@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\Homework6\Coffee\Cats\bin\Debug\Cats.exe.config
+E:\Visual Studio Projects\Homework6\Coffee\Cats\obj\Debug\Cats.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\Homework6\Coffee\Cats\bin\Debug\Cats.exe
+E:\Visual Studio Projects\Homework6\Coffee\Cats\bin\Debug\Cats.pdb
+E:\Visual Studio Projects\Homework6\Coffee\Cats\obj\Debug\Cats.exe
+E:\Visual Studio Projects\Homework6\Coffee\Cats\obj\Debug\Cats.pdb

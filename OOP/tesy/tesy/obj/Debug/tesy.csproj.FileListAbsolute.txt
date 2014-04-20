@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\OOP\tesy\tesy\bin\Debug\tesy.exe.config
+E:\Visual Studio Projects\OOP\tesy\tesy\bin\Debug\tesy.exe
+E:\Visual Studio Projects\OOP\tesy\tesy\bin\Debug\tesy.pdb
+E:\Visual Studio Projects\OOP\tesy\tesy\obj\Debug\tesy.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\OOP\tesy\tesy\obj\Debug\tesy.exe
+E:\Visual Studio Projects\OOP\tesy\tesy\obj\Debug\tesy.pdb

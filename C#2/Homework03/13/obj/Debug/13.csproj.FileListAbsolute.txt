@@ -1,0 +1,9 @@
+F:\Microsoft VisualStudio\Homework03\13\bin\Debug\13.exe.config
+F:\Microsoft VisualStudio\Homework03\13\bin\Debug\13.exe
+F:\Microsoft VisualStudio\Homework03\13\bin\Debug\13.pdb
+F:\Microsoft VisualStudio\Homework03\13\obj\Debug\13.csprojResolveAssemblyReference.cache
+F:\Microsoft VisualStudio\Homework03\13\obj\Debug\13.exe
+F:\Microsoft VisualStudio\Homework03\13\obj\Debug\13.pdb
+E:\Visual Studio Projects\C#2\Homework03\13\bin\Debug\13.exe.config
+E:\Visual Studio Projects\C#2\Homework03\13\obj\Debug\13.exe
+E:\Visual Studio Projects\C#2\Homework03\13\obj\Debug\13.pdb

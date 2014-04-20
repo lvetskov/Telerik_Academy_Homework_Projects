@@ -1,0 +1,5 @@
+E:\Visual Studio Projects\C#2\Homework8\18\bin\Debug\18.exe.config
+E:\Visual Studio Projects\C#2\Homework8\18\bin\Debug\18.exe
+E:\Visual Studio Projects\C#2\Homework8\18\bin\Debug\18.pdb
+E:\Visual Studio Projects\C#2\Homework8\18\obj\Debug\18.exe
+E:\Visual Studio Projects\C#2\Homework8\18\obj\Debug\18.pdb

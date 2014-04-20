@@ -1,0 +1,2 @@
+F:\Microsoft VisualStudio\Homework03\09\bin\Debug\09.exe.config
+E:\Visual Studio Projects\C#2\Homework03\09\bin\Debug\09.exe.config

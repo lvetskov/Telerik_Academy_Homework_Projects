@@ -1,0 +1,5 @@
+E:\Visual Studio Projects\Homework3\Homework3\11.Value of bit\bin\Debug\11.Value of bit.exe.config
+E:\Visual Studio Projects\Homework3\Homework3\11.Value of bit\bin\Debug\11.Value of bit.exe
+E:\Visual Studio Projects\Homework3\Homework3\11.Value of bit\bin\Debug\11.Value of bit.pdb
+E:\Visual Studio Projects\Homework3\Homework3\11.Value of bit\obj\Debug\11.Value of bit.exe
+E:\Visual Studio Projects\Homework3\Homework3\11.Value of bit\obj\Debug\11.Value of bit.pdb

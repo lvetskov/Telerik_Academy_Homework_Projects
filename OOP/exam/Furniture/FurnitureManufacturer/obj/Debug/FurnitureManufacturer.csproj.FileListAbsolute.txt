@@ -1,0 +1,6 @@
+C:\Users\Lyubomir\Desktop\Furniture\FurnitureManufacturer\bin\Debug\Furnitures.exe.config
+C:\Users\Lyubomir\Desktop\Furniture\FurnitureManufacturer\obj\Debug\FurnitureManufacturer.csprojResolveAssemblyReference.cache
+C:\Users\Lyubomir\Desktop\Furniture\FurnitureManufacturer\bin\Debug\Furnitures.exe
+C:\Users\Lyubomir\Desktop\Furniture\FurnitureManufacturer\bin\Debug\Furnitures.pdb
+C:\Users\Lyubomir\Desktop\Furniture\FurnitureManufacturer\obj\Debug\Furnitures.exe
+C:\Users\Lyubomir\Desktop\Furniture\FurnitureManufacturer\obj\Debug\Furnitures.pdb

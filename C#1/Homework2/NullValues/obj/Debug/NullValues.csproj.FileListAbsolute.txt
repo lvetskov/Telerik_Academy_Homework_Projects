@@ -1,0 +1,5 @@
+E:\Visual Studio Projects\Homework2\NullValues\bin\Debug\NullValues.exe.config
+E:\Visual Studio Projects\Homework2\NullValues\bin\Debug\NullValues.exe
+E:\Visual Studio Projects\Homework2\NullValues\bin\Debug\NullValues.pdb
+E:\Visual Studio Projects\Homework2\NullValues\obj\Debug\NullValues.exe
+E:\Visual Studio Projects\Homework2\NullValues\obj\Debug\NullValues.pdb

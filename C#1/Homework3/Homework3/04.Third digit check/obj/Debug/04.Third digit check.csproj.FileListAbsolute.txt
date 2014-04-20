@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\Homework3\Homework3\04.Third digit check\bin\Debug\04.Third digit check.exe.config
+E:\Visual Studio Projects\Homework3\Homework3\04.Third digit check\bin\Debug\04.Third digit check.exe
+E:\Visual Studio Projects\Homework3\Homework3\04.Third digit check\bin\Debug\04.Third digit check.pdb
+E:\Visual Studio Projects\Homework3\Homework3\04.Third digit check\obj\Debug\04.Third digit check.exe
+E:\Visual Studio Projects\Homework3\Homework3\04.Third digit check\obj\Debug\04.Third digit check.pdb
+E:\Visual Studio Projects\Homework3\Homework3\04.Third digit check\obj\Debug\04.Third digit check.csprojResolveAssemblyReference.cache

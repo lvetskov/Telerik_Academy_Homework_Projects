@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\Homework3\Homework3\Bit at position P\bin\Debug\Bit at position P.exe.config
+E:\Visual Studio Projects\Homework3\Homework3\Bit at position P\bin\Debug\Bit at position P.exe
+E:\Visual Studio Projects\Homework3\Homework3\Bit at position P\obj\Debug\Bit at position P.exe
+E:\Visual Studio Projects\Homework3\Homework3\Bit at position P\obj\Debug\Bit at position P.pdb
+E:\Visual Studio Projects\Homework3\Homework3\Bit at position P\bin\Debug\Bit at position P.pdb
+E:\Visual Studio Projects\Homework3\Homework3\Bit at position P\obj\Debug\10.Bit at position P.csprojResolveAssemblyReference.cache

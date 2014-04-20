@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\Homework3\Homework3\07.Prime Number\bin\Debug\07.Prime Number.exe.config
+E:\Visual Studio Projects\Homework3\Homework3\07.Prime Number\bin\Debug\07.Prime Number.exe
+E:\Visual Studio Projects\Homework3\Homework3\07.Prime Number\bin\Debug\07.Prime Number.pdb
+E:\Visual Studio Projects\Homework3\Homework3\07.Prime Number\obj\Debug\07.Prime Number.exe
+E:\Visual Studio Projects\Homework3\Homework3\07.Prime Number\obj\Debug\07.Prime Number.pdb
+E:\Visual Studio Projects\Homework3\Homework3\07.Prime Number\obj\Debug\07.Prime Number.csprojResolveAssemblyReference.cache

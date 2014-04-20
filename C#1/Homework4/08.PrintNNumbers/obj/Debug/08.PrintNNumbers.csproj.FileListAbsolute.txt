@@ -1,0 +1,9 @@
+E:\Visual Studio Projects\Homework3\Homework4\08.PrintNNumbers\bin\Debug\08.PrintNNumbers.exe.config
+E:\Visual Studio Projects\Homework3\Homework4\08.PrintNNumbers\bin\Debug\08.PrintNNumbers.exe
+E:\Visual Studio Projects\Homework3\Homework4\08.PrintNNumbers\bin\Debug\08.PrintNNumbers.pdb
+E:\Visual Studio Projects\Homework3\Homework4\08.PrintNNumbers\obj\Debug\08.PrintNNumbers.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\Homework3\Homework4\08.PrintNNumbers\obj\Debug\08.PrintNNumbers.exe
+E:\Visual Studio Projects\Homework3\Homework4\08.PrintNNumbers\obj\Debug\08.PrintNNumbers.pdb
+E:\Visual Studio Projects\Homework4\08.PrintNNumbers\bin\Debug\08.PrintNNumbers.exe.config
+E:\Visual Studio Projects\Homework4\08.PrintNNumbers\obj\Debug\08.PrintNNumbers.exe
+E:\Visual Studio Projects\Homework4\08.PrintNNumbers\obj\Debug\08.PrintNNumbers.pdb

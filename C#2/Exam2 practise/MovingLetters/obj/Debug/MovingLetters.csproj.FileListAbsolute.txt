@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\C#2\Exam2\MovingLetters\bin\Debug\MovingLetters.exe.config
+E:\Visual Studio Projects\C#2\Exam2\MovingLetters\bin\Debug\MovingLetters.exe
+E:\Visual Studio Projects\C#2\Exam2\MovingLetters\bin\Debug\MovingLetters.pdb
+E:\Visual Studio Projects\C#2\Exam2\MovingLetters\obj\Debug\MovingLetters.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\C#2\Exam2\MovingLetters\obj\Debug\MovingLetters.exe
+E:\Visual Studio Projects\C#2\Exam2\MovingLetters\obj\Debug\MovingLetters.pdb

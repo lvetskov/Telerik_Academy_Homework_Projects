@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\C#2\Homework1\08\bin\Debug\08.exe.config
+E:\Visual Studio Projects\C#2\Homework1\08\bin\Debug\08.exe
+E:\Visual Studio Projects\C#2\Homework1\08\bin\Debug\08.pdb
+E:\Visual Studio Projects\C#2\Homework1\08\obj\Debug\08.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\C#2\Homework1\08\obj\Debug\08.exe
+E:\Visual Studio Projects\C#2\Homework1\08\obj\Debug\08.pdb

@@ -1,0 +1,5 @@
+E:\Visual Studio Projects\Homework6\Coffee\Coffee\bin\Debug\Coffee.exe.config
+E:\Visual Studio Projects\Homework6\Coffee\Coffee\bin\Debug\Coffee.exe
+E:\Visual Studio Projects\Homework6\Coffee\Coffee\bin\Debug\Coffee.pdb
+E:\Visual Studio Projects\Homework6\Coffee\Coffee\obj\Debug\Coffee.exe
+E:\Visual Studio Projects\Homework6\Coffee\Coffee\obj\Debug\Coffee.pdb

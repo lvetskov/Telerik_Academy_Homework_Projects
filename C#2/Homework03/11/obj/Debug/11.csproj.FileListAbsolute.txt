@@ -1,0 +1,12 @@
+F:\Microsoft VisualStudio\Homework03\11\bin\Debug\11.exe.config
+F:\Microsoft VisualStudio\Homework03\11\bin\Debug\11.exe
+F:\Microsoft VisualStudio\Homework03\11\bin\Debug\11.pdb
+F:\Microsoft VisualStudio\Homework03\11\obj\Debug\11.csprojResolveAssemblyReference.cache
+F:\Microsoft VisualStudio\Homework03\11\obj\Debug\11.exe
+F:\Microsoft VisualStudio\Homework03\11\obj\Debug\11.pdb
+E:\Visual Studio Projects\C#2\Homework03\11\bin\Debug\11.exe.config
+E:\Visual Studio Projects\C#2\Homework03\11\obj\Debug\11.exe
+E:\Visual Studio Projects\C#2\Homework03\11\obj\Debug\11.pdb
+E:\Visual Studio Projects\C#2\Homework03\11\bin\Debug\11.exe
+E:\Visual Studio Projects\C#2\Homework03\11\bin\Debug\11.pdb
+E:\Visual Studio Projects\C#2\Homework03\11\obj\Debug\11.csprojResolveAssemblyReference.cache

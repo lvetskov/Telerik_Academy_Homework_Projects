@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\OOP\Homework01\Homework01\bin\Debug\Homework01.exe.config
+E:\Visual Studio Projects\OOP\Homework01\Homework01\bin\Debug\Homework01.exe
+E:\Visual Studio Projects\OOP\Homework01\Homework01\bin\Debug\Homework01.pdb
+E:\Visual Studio Projects\OOP\Homework01\Homework01\obj\Debug\MobilePhone.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\OOP\Homework01\Homework01\obj\Debug\Homework01.exe
+E:\Visual Studio Projects\OOP\Homework01\Homework01\obj\Debug\Homework01.pdb

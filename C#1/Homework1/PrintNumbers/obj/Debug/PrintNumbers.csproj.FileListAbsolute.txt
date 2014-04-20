@@ -1,0 +1,6 @@
+e:\Visual Studio Projects\Homework1\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+e:\Visual Studio Projects\Homework1\PrintNumbers\bin\Debug\PrintNumbers.exe
+e:\Visual Studio Projects\Homework1\PrintNumbers\bin\Debug\PrintNumbers.pdb
+e:\Visual Studio Projects\Homework1\PrintNumbers\obj\Debug\PrintNumbers.exe
+e:\Visual Studio Projects\Homework1\PrintNumbers\obj\Debug\PrintNumbers.pdb
+e:\Visual Studio Projects\Homework1\PrintNumbers\obj\Debug\PrintNumbers.csprojResolveAssemblyReference.cache

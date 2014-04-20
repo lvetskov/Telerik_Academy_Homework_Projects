@@ -1,0 +1,5 @@
+E:\Visual Studio Projects\NOI\zad8\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+E:\Visual Studio Projects\NOI\zad8\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+E:\Visual Studio Projects\NOI\zad8\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+E:\Visual Studio Projects\NOI\zad8\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+E:\Visual Studio Projects\NOI\zad8\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb

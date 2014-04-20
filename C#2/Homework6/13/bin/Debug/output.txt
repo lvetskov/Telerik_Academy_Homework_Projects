@@ -1,0 +1,3 @@
+cat: 5
+delphin: 4
+dog: 3

@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\Homework6\Coffee\ForestRoad\bin\Debug\ForestRoad.exe.config
+E:\Visual Studio Projects\Homework6\Coffee\ForestRoad\bin\Debug\ForestRoad.exe
+E:\Visual Studio Projects\Homework6\Coffee\ForestRoad\bin\Debug\ForestRoad.pdb
+E:\Visual Studio Projects\Homework6\Coffee\ForestRoad\obj\Debug\ForestRoad.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\Homework6\Coffee\ForestRoad\obj\Debug\ForestRoad.exe
+E:\Visual Studio Projects\Homework6\Coffee\ForestRoad\obj\Debug\ForestRoad.pdb

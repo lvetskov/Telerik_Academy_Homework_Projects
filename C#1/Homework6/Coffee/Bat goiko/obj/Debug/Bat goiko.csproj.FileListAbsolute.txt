@@ -1,0 +1,5 @@
+E:\Visual Studio Projects\Homework6\Coffee\Bat goiko\bin\Debug\Bat goiko.exe.config
+E:\Visual Studio Projects\Homework6\Coffee\Bat goiko\bin\Debug\Bat goiko.exe
+E:\Visual Studio Projects\Homework6\Coffee\Bat goiko\bin\Debug\Bat goiko.pdb
+E:\Visual Studio Projects\Homework6\Coffee\Bat goiko\obj\Debug\Bat goiko.exe
+E:\Visual Studio Projects\Homework6\Coffee\Bat goiko\obj\Debug\Bat goiko.pdb

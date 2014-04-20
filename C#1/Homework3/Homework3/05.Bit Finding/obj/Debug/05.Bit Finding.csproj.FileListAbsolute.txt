@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\Homework3\Homework3\05.Bit Finding\bin\Debug\05.Bit Finding.exe.config
+E:\Visual Studio Projects\Homework3\Homework3\05.Bit Finding\bin\Debug\05.Bit Finding.exe
+E:\Visual Studio Projects\Homework3\Homework3\05.Bit Finding\bin\Debug\05.Bit Finding.pdb
+E:\Visual Studio Projects\Homework3\Homework3\05.Bit Finding\obj\Debug\05.Bit Finding.exe
+E:\Visual Studio Projects\Homework3\Homework3\05.Bit Finding\obj\Debug\05.Bit Finding.pdb
+E:\Visual Studio Projects\Homework3\Homework3\05.Bit Finding\obj\Debug\05.Bit Finding.csprojResolveAssemblyReference.cache

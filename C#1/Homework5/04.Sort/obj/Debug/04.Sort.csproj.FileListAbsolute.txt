@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\Homework5\04.Sort\bin\Debug\04.Sort.exe.config
+E:\Visual Studio Projects\Homework5\04.Sort\bin\Debug\04.Sort.exe
+E:\Visual Studio Projects\Homework5\04.Sort\bin\Debug\04.Sort.pdb
+E:\Visual Studio Projects\Homework5\04.Sort\obj\Debug\04.Sort.exe
+E:\Visual Studio Projects\Homework5\04.Sort\obj\Debug\04.Sort.pdb
+E:\Visual Studio Projects\Homework5\04.Sort\obj\Debug\04.Sort.csprojResolveAssemblyReference.cache

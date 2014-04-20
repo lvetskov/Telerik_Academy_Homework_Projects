@@ -1,0 +1,12 @@
+E:\Visual Studio Projects\C#2\Homework1\20\bin\Debug\20.exe.config
+E:\Visual Studio Projects\C#2\Homework1\20\obj\Debug\20.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\C#2\Homework1\20\bin\Debug\20.exe
+E:\Visual Studio Projects\C#2\Homework1\20\bin\Debug\20.pdb
+E:\Visual Studio Projects\C#2\Homework1\20\obj\Debug\20.exe
+E:\Visual Studio Projects\C#2\Homework1\20\obj\Debug\20.pdb
+\\LYUBOMIR-PC\Visual Studio Projects\C#2\Homework1\20\bin\Debug\20.exe.config
+\\LYUBOMIR-PC\Visual Studio Projects\C#2\Homework1\20\obj\Debug\20.exe
+\\LYUBOMIR-PC\Visual Studio Projects\C#2\Homework1\20\obj\Debug\20.pdb
+\\LYUBOMIR-PC\Visual Studio Projects\C#2\Homework1\20\bin\Debug\20.exe
+\\LYUBOMIR-PC\Visual Studio Projects\C#2\Homework1\20\bin\Debug\20.pdb
+\\LYUBOMIR-PC\Visual Studio Projects\C#2\Homework1\20\obj\Debug\20.csprojResolveAssemblyReference.cache

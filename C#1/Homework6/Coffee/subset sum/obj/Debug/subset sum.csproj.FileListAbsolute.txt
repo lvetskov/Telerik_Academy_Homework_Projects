@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\Homework6\Coffee\subset sum\bin\Debug\subset sum.exe.config
+E:\Visual Studio Projects\Homework6\Coffee\subset sum\bin\Debug\subset sum.exe
+E:\Visual Studio Projects\Homework6\Coffee\subset sum\bin\Debug\subset sum.pdb
+E:\Visual Studio Projects\Homework6\Coffee\subset sum\obj\Debug\subset sum.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\Homework6\Coffee\subset sum\obj\Debug\subset sum.exe
+E:\Visual Studio Projects\Homework6\Coffee\subset sum\obj\Debug\subset sum.pdb

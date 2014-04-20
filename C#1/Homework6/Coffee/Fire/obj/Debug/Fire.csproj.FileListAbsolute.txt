@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\Homework6\Coffee\Fire\bin\Debug\Fire.exe.config
+E:\Visual Studio Projects\Homework6\Coffee\Fire\bin\Debug\Fire.exe
+E:\Visual Studio Projects\Homework6\Coffee\Fire\bin\Debug\Fire.pdb
+E:\Visual Studio Projects\Homework6\Coffee\Fire\obj\Debug\Fire.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\Homework6\Coffee\Fire\obj\Debug\Fire.exe
+E:\Visual Studio Projects\Homework6\Coffee\Fire\obj\Debug\Fire.pdb

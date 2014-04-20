@@ -1,0 +1,5 @@
+E:\Visual Studio Projects\Homework6\Homework6\06.Sum\bin\Debug\06.Sum.exe.config
+E:\Visual Studio Projects\Homework6\Homework6\06.Sum\bin\Debug\06.Sum.exe
+E:\Visual Studio Projects\Homework6\Homework6\06.Sum\bin\Debug\06.Sum.pdb
+E:\Visual Studio Projects\Homework6\Homework6\06.Sum\obj\Debug\06.Sum.exe
+E:\Visual Studio Projects\Homework6\Homework6\06.Sum\obj\Debug\06.Sum.pdb

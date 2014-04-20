@@ -1,0 +1,5 @@
+E:\Visual Studio Projects\Homework3\Homework3\13.Exchange bits\bin\Debug\13.Exchange bits.exe.config
+E:\Visual Studio Projects\Homework3\Homework3\13.Exchange bits\bin\Debug\13.Exchange bits.exe
+E:\Visual Studio Projects\Homework3\Homework3\13.Exchange bits\bin\Debug\13.Exchange bits.pdb
+E:\Visual Studio Projects\Homework3\Homework3\13.Exchange bits\obj\Debug\13.Exchange bits.exe
+E:\Visual Studio Projects\Homework3\Homework3\13.Exchange bits\obj\Debug\13.Exchange bits.pdb

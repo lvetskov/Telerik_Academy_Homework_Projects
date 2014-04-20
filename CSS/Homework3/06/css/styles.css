@@ -1,0 +1,85 @@
+body {
+    font-family: Verdana, sans-serif;
+    font-size: 11px;
+    background: #1E3741;
+}
+body, header, ul, a {
+    padding: 0px;
+    margin: 0px;
+}
+.btvnews {
+    width: 670px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    height: 350px;
+}
+header {
+    height: 35px;
+    display: block;
+    padding: 5px 0px 0px 0px;
+    margin: 10px 0px 0px 3px;
+    background: #1E3741;
+    width: 660px;
+}
+.tabs {
+    float: left;
+    height: 19px;
+    background: #4B5F67;
+    padding: 8px 10px;
+    border-left: 1px solid #1E3741;
+    font-weight: bold;
+}
+    .tabs:hover:not(.active) {
+        color: #A5AFB3;
+        text-decoration: underline;
+        background: #1E3741;
+        box-shadow: #4B5F67 0px 0px 0px 1px inset;
+    }
+.active {
+    background: #1E3741;
+}
+a {
+    color: #4B5F67;
+    font-size: 14px;
+    text-decoration: none;
+}
+header a {
+    color: #A5AFB3;
+}
+    a:hover {
+        text-decoration: underline;
+        color: white;
+    }
+.active a {
+    color: white;
+}
+.newslist {
+    width: 660px;
+    background: #1E3741;
+    margin: 10px 0px 0px 3px;
+    float: left;
+}
+ul {
+    list-style-type: none;
+    width: 280px;
+}
+li {
+    border-bottom: 1px solid grey;
+    padding: 5px 5px;
+}
+    li.active {
+        background: #00968C;
+    }
+    li:hover:not(.active) {
+        background: #00968C;
+        text-decoration: underline;
+        color: #4B5F67;
+    }
+img {
+    position: absolute;
+    left: 285px;
+    top: 60px;
+    height: 245px;
+    width: 336px;
+    border: 1px solid grey;
+}

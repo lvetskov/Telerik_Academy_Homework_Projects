@@ -1,0 +1,12 @@
+E:\Visual Studio Projects\Homework3\Homework4\10.AlternateNumbers\bin\Debug\10.AlternateNumbers.exe.config
+E:\Visual Studio Projects\Homework3\Homework4\10.AlternateNumbers\bin\Debug\10.AlternateNumbers.exe
+E:\Visual Studio Projects\Homework3\Homework4\10.AlternateNumbers\bin\Debug\10.AlternateNumbers.pdb
+E:\Visual Studio Projects\Homework3\Homework4\10.AlternateNumbers\obj\Debug\10.AlternatingNumbers.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\Homework3\Homework4\10.AlternateNumbers\obj\Debug\10.AlternateNumbers.exe
+E:\Visual Studio Projects\Homework3\Homework4\10.AlternateNumbers\obj\Debug\10.AlternateNumbers.pdb
+E:\Visual Studio Projects\Homework4\10.AlternateNumbers\bin\Debug\10.AlternateNumbers.exe.config
+E:\Visual Studio Projects\Homework4\10.AlternateNumbers\obj\Debug\10.AlternateNumbers.exe
+E:\Visual Studio Projects\Homework4\10.AlternateNumbers\bin\Debug\10.AlternateNumbers.exe
+E:\Visual Studio Projects\Homework4\10.AlternateNumbers\bin\Debug\10.AlternateNumbers.pdb
+E:\Visual Studio Projects\Homework4\10.AlternateNumbers\obj\Debug\10.AlternatingNumbers.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\Homework4\10.AlternateNumbers\obj\Debug\10.AlternateNumbers.pdb

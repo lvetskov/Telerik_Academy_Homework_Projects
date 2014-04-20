@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\C#2\EXAM2\RelevanceIndex\bin\Debug\RelevanceIndex.exe.config
+E:\Visual Studio Projects\C#2\EXAM2\RelevanceIndex\bin\Debug\RelevanceIndex.exe
+E:\Visual Studio Projects\C#2\EXAM2\RelevanceIndex\bin\Debug\RelevanceIndex.pdb
+E:\Visual Studio Projects\C#2\EXAM2\RelevanceIndex\obj\Debug\RelevanceIndex.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\C#2\EXAM2\RelevanceIndex\obj\Debug\RelevanceIndex.exe
+E:\Visual Studio Projects\C#2\EXAM2\RelevanceIndex\obj\Debug\RelevanceIndex.pdb

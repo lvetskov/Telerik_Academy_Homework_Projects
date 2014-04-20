@@ -1,0 +1,8 @@
+E:\Visual Studio Projects\Homework3\Homework4\05.GreaterNumber\bin\Debug\05.GreaterNumber.exe.config
+E:\Visual Studio Projects\Homework3\Homework4\05.GreaterNumber\bin\Debug\05.GreaterNumber.exe
+E:\Visual Studio Projects\Homework3\Homework4\05.GreaterNumber\bin\Debug\05.GreaterNumber.pdb
+E:\Visual Studio Projects\Homework3\Homework4\05.GreaterNumber\obj\Debug\05.GreaterNumber.exe
+E:\Visual Studio Projects\Homework3\Homework4\05.GreaterNumber\obj\Debug\05.GreaterNumber.pdb
+E:\Visual Studio Projects\Homework4\05.GreaterNumber\bin\Debug\05.GreaterNumber.exe.config
+E:\Visual Studio Projects\Homework4\05.GreaterNumber\obj\Debug\05.GreaterNumber.exe
+E:\Visual Studio Projects\Homework4\05.GreaterNumber\obj\Debug\05.GreaterNumber.pdb

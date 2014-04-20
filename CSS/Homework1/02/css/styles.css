@@ -1,0 +1,44 @@
+body{
+	font-size: 14px;
+	font-family: sans-serif;
+}
+thead{
+	color: #FFFFFF;
+	background-color: #00C431;
+}
+.headerHeight{
+	height: 2em;
+}
+tr{
+	height: 2.5em;
+}
+table{
+	border-spacing: 0;
+}
+.wideCol{
+	width: 170px;
+}
+.wideCol2{
+	width: 120px;
+}
+.endCol{
+	width: 85px;
+}
+tr:nth-child(2n){
+	background-color: #DDDDDD;
+}
+table tbody tr td.flagGermany{
+	background: url(../imgs/germany.png) no-repeat;
+	background-position: 0 8px;
+	padding-left: 30px;
+}
+table tbody tr td.flagMexico{
+	background: url(../imgs/mexico.png) no-repeat;
+	background-position: 0 8px;
+	padding-left: 30px;
+}
+table tbody tr td.flagUK{
+	background: url(../imgs/uk.png) no-repeat;
+	background-position: 0 8px;
+	padding-left: 30px;
+}

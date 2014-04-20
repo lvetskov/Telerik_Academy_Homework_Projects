@@ -1,0 +1,5 @@
+E:\Visual Studio Projects\Homework3\Homework3\12.NVP\bin\Debug\12.NVP.exe.config
+E:\Visual Studio Projects\Homework3\Homework3\12.NVP\bin\Debug\12.NVP.exe
+E:\Visual Studio Projects\Homework3\Homework3\12.NVP\bin\Debug\12.NVP.pdb
+E:\Visual Studio Projects\Homework3\Homework3\12.NVP\obj\Debug\12.NVP.exe
+E:\Visual Studio Projects\Homework3\Homework3\12.NVP\obj\Debug\12.NVP.pdb

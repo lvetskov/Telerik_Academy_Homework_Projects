@@ -1,0 +1,8 @@
+F:\Microsoft VisualStudio\Homework03\02\bin\Debug\02.exe.config
+F:\Microsoft VisualStudio\Homework03\02\bin\Debug\02.exe
+F:\Microsoft VisualStudio\Homework03\02\bin\Debug\02.pdb
+F:\Microsoft VisualStudio\Homework03\02\obj\Debug\02.exe
+F:\Microsoft VisualStudio\Homework03\02\obj\Debug\02.pdb
+E:\Visual Studio Projects\C#2\Homework03\02\bin\Debug\02.exe.config
+E:\Visual Studio Projects\C#2\Homework03\02\obj\Debug\02.exe
+E:\Visual Studio Projects\C#2\Homework03\02\obj\Debug\02.pdb

@@ -1,0 +1,5 @@
+E:\Visual Studio Projects\Homework2\ComparingFloatingPoint\bin\Debug\ComparingFloatingPoint.exe.config
+E:\Visual Studio Projects\Homework2\ComparingFloatingPoint\bin\Debug\ComparingFloatingPoint.exe
+E:\Visual Studio Projects\Homework2\ComparingFloatingPoint\bin\Debug\ComparingFloatingPoint.pdb
+E:\Visual Studio Projects\Homework2\ComparingFloatingPoint\obj\Debug\ComparingFloatingPoint.exe
+E:\Visual Studio Projects\Homework2\ComparingFloatingPoint\obj\Debug\ComparingFloatingPoint.pdb

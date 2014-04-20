@@ -1,0 +1,12 @@
+c:\users\lyubomir\documents\visual studio 2013\Projects\Homework05\Problem01\bin\Debug\Problem01.exe.config
+C:\Users\Lyubomir\documents\visual studio 2013\Projects\Homework05\Problem01\obj\Debug\Problem01.csprojResolveAssemblyReference.cache
+C:\Users\Lyubomir\documents\visual studio 2013\Projects\Homework05\Problem01\bin\Debug\Problem01.exe
+C:\Users\Lyubomir\documents\visual studio 2013\Projects\Homework05\Problem01\bin\Debug\Problem01.pdb
+C:\Users\Lyubomir\documents\visual studio 2013\Projects\Homework05\Problem01\obj\Debug\Problem01.exe
+C:\Users\Lyubomir\documents\visual studio 2013\Projects\Homework05\Problem01\obj\Debug\Problem01.pdb
+E:\Visual Studio Projects\OOP\Homework05\Problem01\bin\Debug\Problem01.exe.config
+E:\Visual Studio Projects\OOP\Homework05\Problem01\obj\Debug\Problem01.exe
+E:\Visual Studio Projects\OOP\Homework05\Problem01\obj\Debug\Problem01.pdb
+E:\Visual Studio Projects\OOP\Homework05\Problem01\bin\Debug\Problem01.exe
+E:\Visual Studio Projects\OOP\Homework05\Problem01\bin\Debug\Problem01.pdb
+E:\Visual Studio Projects\OOP\Homework05\Problem01\obj\Debug\Problem01.csprojResolveAssemblyReference.cache
